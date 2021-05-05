@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My Top Languages
-1. Typescript / JavaScript
+1. TypeScript / JavaScript
 2. Python
 3. Rust
 
