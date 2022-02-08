@@ -2,7 +2,7 @@
 
 ### About Me
 
-I love solving data related problems and building backend (mostly web) services. I'm also into InfoSec and ethical hacking.
+I love solving data related problems and building backend (mostly web) services. I'm also into cybersecurity and ethical hacking.
 
 ### My Favorite Languages
 
