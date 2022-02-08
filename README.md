@@ -1,15 +1,29 @@
-### Hi there 👋
+## Hi there! Welcome to my GitHub profile.
 
-## My Favorite Languages
+### About Me
+
+I love solving data related problems and building backend (mostly web) services. I'm also into InfoSec and ethical hacking.
+
+### My Favorite Languages
+
 1. Rust
 2. TypeScript / JavaScript
 
-## My Favorite Technlogies
+### My Favorite Frameworks
 
-1. MySQL
-2. Docker
+I don't like having many dependencies, but I really like using these frameworks for larger projects:
 
-## My Favorite Tools
+- [Vue.js](https://vuejs.org)
+- [Express.js](https://expressjs.com)
+- [Actix](https://actix.rs)
+
+### My Favorite Technlogies
+
+1. Docker
+2. Node.js
+3. MySQL
+
+### My Favorite Tools
 
 1. Visual Studio Code
 2. git
