@@ -22,7 +22,6 @@ I don't like when my code is dependant on tons of third party libraries, but I r
 
 1. Docker
 2. Node.js
-3. MySQL
 
 ### My Favorite Tools
 
