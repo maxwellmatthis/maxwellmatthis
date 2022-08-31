@@ -13,9 +13,8 @@ I love solving data related problems and building backend (mostly web) services.
 
 I don't like when my code is dependent on tons of third party libraries, but I really like using these frameworks for larger projects:
 
-- [Vue.js](https://vuejs.org)
 - [Svelte](https://svelte.dev)
-- [Express.js](https://expressjs.com)
+- [Vue.js](https://vuejs.org)
 - [Actix](https://actix.rs)
 
 ### My Favorite Technlogies
