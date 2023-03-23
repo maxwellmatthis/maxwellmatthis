@@ -11,11 +11,8 @@ I love solving data related problems and building backend (mostly web) services.
 
 ### My Favorite Frameworks
 
-I don't like when my code is dependent on tons of third party libraries, but I really like using these frameworks for larger projects:
-
 - [Svelte](https://svelte.dev)
-- [Vue.js](https://vuejs.org)
-- [Actix](https://actix.rs)
+- [Express](https://expressjs.com)
 
 ### My Favorite Technlogies
 
@@ -24,6 +21,7 @@ I don't like when my code is dependent on tons of third party libraries, but I r
 
 ### My Favorite Tools
 
-1. Visual Studio Code
-2. git
-3. vim
+- VS Code
+- neovim
+- git
+- zsh
