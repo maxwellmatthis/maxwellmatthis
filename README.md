@@ -6,8 +6,8 @@ I love solving data related problems and building backend (mostly web) services.
 
 ### My Favorite Languages
 
-1. Rust
-2. TypeScript / JavaScript
+- Rust
+- TypeScript / JavaScript
 
 ### My Favorite Frameworks
 
@@ -16,12 +16,12 @@ I love solving data related problems and building backend (mostly web) services.
 
 ### My Favorite Technlogies
 
-1. Docker
-2. Node.js
+- Docker
+- Node.js
 
 ### My Favorite Tools
 
 - VS Code
-- neovim
-- git
-- zsh
+- Neovim
+- Git
+- Zsh
