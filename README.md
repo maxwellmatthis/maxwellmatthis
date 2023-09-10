@@ -12,12 +12,11 @@ I love solving data related problems and building backend (mostly web) services.
 ### My Favorite Frameworks
 
 - [Svelte](https://svelte.dev)
-- [Express](https://expressjs.com)
 
 ### My Favorite Technlogies
 
 - Docker
-- Node.js
+- Bun
 
 ### My Favorite Tools
 
