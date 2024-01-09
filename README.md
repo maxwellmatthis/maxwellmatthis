@@ -2,12 +2,13 @@
 
 ### About Me
 
-I love solving data related problems and building backend (mostly web) services. I'm also into cybersecurity and ethical hacking.
+I love solving data related problems.
 
 ### My Favorite Languages
 
 - Rust
 - TypeScript / JavaScript
+- Python
 
 ### My Favorite Frameworks
 
