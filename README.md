@@ -1,18 +1,16 @@
 ## Hi there! Welcome to my GitHub profile.
 
-### About Me
-
-I love solving data related problems.
-
 ### My Favorite Languages
 
 - Rust
 - TypeScript / JavaScript
 - Python
 
-### My Favorite Frameworks
+### My Favorite Frameworks & Libraries
 
 - [Svelte](https://svelte.dev)
+- [Matplotlib](https://matplotlib.org)
+- [Clap](https://crates.io/crates/clap)
 
 ### My Favorite Technlogies
 
